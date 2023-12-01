@@ -290,7 +290,7 @@ p {
 }
 
 #home .home-img {
-    background: url('img/homeImg.JPG') no-repeat;
+    background-color: black;
     background-size: cover;
     width: 98%;
     height: 92vh;
