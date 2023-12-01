@@ -277,6 +277,8 @@ p {
     float: left;
     width: 51%;
     height: 92vh;
+    background-color: #161616;
+    display: flex;
 }
 
 .homeText {
@@ -290,7 +292,7 @@ p {
 }
 
 #home .home-img {
-    background-color: black;
+    background: url('img/homeImg.JPG') no-repeat;
     background-size: cover;
     width: 98%;
     height: 92vh;
