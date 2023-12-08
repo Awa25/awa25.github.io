@@ -289,7 +289,7 @@ p {
 }
 
 #home .home-img {
-    background: url('img/homeImg.JPG') no-repeat;
+    background: url('/img/homeImg.JPG') no-repeat;
     background-size: cover;
     width: 98%;
     height: 92vh;
@@ -336,7 +336,7 @@ p {
 }
 
 #about .about-img {
-    background: url('img/aboutImg.jpg') no-repeat;
+    background: url('/img/aboutImg.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -470,7 +470,7 @@ p {
 -----------------------------------------*/
 
 #experience .experience-img {
-    background: url('img/experienceImg.jpg') no-repeat;
+    background: url('/img/experienceImg.jpg') no-repeat;
 }
 
 #experience .experience-thumb p {
