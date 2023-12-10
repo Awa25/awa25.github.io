@@ -1,0 +1,126 @@
+/*----------------------------------------------------------------------------------*/
+/*  General Styling
+/*-----------------------------------------------------------------------------------*/
+
+body {
+    background: #ffffff;
+    color: #898989;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+
+
+.section-title {
+    text-align: center;
+    color: #333;
+}
+
+.section-title h2 {
+    font-size: 28px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 70px;
+}
+
+.main {
+    width: 95%;
+    padding: 70px 130px 0 130px;
+    margin: 0;
+}
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*  Cover Letter
+/*-----------------------------------------------------------------------------------*/
+
+#cl {
+    height: auto;
+    width: 100%;
+    background: #f7f7f7;
+    position: relative;
+}
+
+.clTitle {
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+.position {
+    width: 82%;
+    display: flex;
+    margin: 0;
+}
+
+.position h3 {
+    color: #333;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    float: left;
+    width: 25%;
+    letter-spacing: 0.6px;
+    line-height: 20px;
+}
+
+.p_line {
+    text-align: right;
+    border-bottom: 15px solid #D2D1D1;
+    width: 80%;
+    float: right;
+    height: 25px;
+    margin: 0;
+}
+
+.p_line ul li {
+    font-size: 14px;
+    color: #606060;
+    line-height: 25px;
+    list-style: none;
+    display: inline;
+    padding: 0 15px;
+}
+
+.p_line a {
+    text-decoration: none;
+    color: #606060;
+}
+
+.clContent {
+    width: 75%;
+    padding-left: 30px;
+}
+
+.clContent h4{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #333;
+    text-transform: none;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+}
+
+.clContent h3 {
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #333;
+    text-transform: none;
+    font-weight: 600;
+    letter-spacing: 0;
+    padding-bottom: 40px;
+}
+
+.clContent p{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 20px;
+    padding-bottom: 10px;
+    text-align: justify;
+    color: #333;
+}
+
